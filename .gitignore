@@ -1,0 +1,30 @@
+# Node.js (на випадок якщо додаватимеш npm)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs & editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Output folders
+dist/
+build/
+
+# Environment files
+.env
+.env.*.local
+
+# MacOS/Windows hidden files
+._*
